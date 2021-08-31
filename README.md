@@ -1,6 +1,6 @@
 ## Simple counting program
 
-I originaly made this program for discord but it works in anything that takes keyboard input.
+I originaly made this program for discord however it works in anything that takes keyboard input.
 
 There's not much to say about this program but all the cool kids have long readmes so I'm going to try and waffle about it for as long as possible.
 
