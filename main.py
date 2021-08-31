@@ -18,12 +18,8 @@ print('1')
 time.sleep(1)
 
 
-while True:
-    num = str(num)
-    auto.typewrite(num)
-    num = int(num)
-    num = num + 1
+while num != endnum:
+    auto.typewrite(str(num))
+    num = int(num) + 1
     auto.press('enter')
     time.sleep(1.7)
-    if num == endnum:
-        break
