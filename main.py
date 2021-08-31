@@ -1,7 +1,7 @@
 import pyautogui as auto
 import time
 
-num = str(156864)
+num = str(156901)
 
 time.sleep(5)
 
@@ -11,4 +11,4 @@ while True:
     num = int(num)
     num = num + 1
     auto.press('enter')
-    time.sleep(2)
+    time.sleep(3)
