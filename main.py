@@ -1,9 +1,32 @@
 import pyautogui as auto
 import time
 
-num = str(160134)
 
-time.sleep(5)
+num = input('please input number you want to start counting from: ')
+endnum = input('please input the number you would like to stop counting from: ')
+
+print('beginning count in ')
+print('5')
+time.sleep(1)
+print('4')
+time.sleep(1)
+print('3')
+time.sleep(1)
+print('2')
+time.sleep(1)13
+1415
+16
+17
+18
+19
+20
+21
+
+
+
+print('1')
+time.sleep(1)
+
 
 while True:
     num = str(num)
@@ -12,9 +35,5 @@ while True:
     num = num + 1
     auto.press('enter')
     time.sleep(1.7)
-    if num == 170001:
+    if num == endnum:
         break
-60158
-160159
-160160
-160161
