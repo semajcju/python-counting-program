@@ -1,7 +1,7 @@
 import pyautogui as auto
 import time
 
-num = str(159679)
+num = str(159721)
 
 time.sleep(5)
 
